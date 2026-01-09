@@ -50,3 +50,6 @@ I enjoy building **clean APIs**, working with **data-driven systems**, and turni
 
 ### 📊 GitHub Languages
 ![Top languages](https://img.shields.io/github/languages/top/JanaSoliman21/AIDentify)
+![Top languages](https://img.shields.io/github/languages/top/JanaSoliman21/NLP-Task)
+![Top languages](https://img.shields.io/github/languages/top/JanaSoliman21/Word-Statistics-)
+![Top languages](https://img.shields.io/github/languages/top/JanaSoliman21/SmartGym)
