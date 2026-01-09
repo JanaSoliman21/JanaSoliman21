@@ -37,5 +37,4 @@ I enjoy building **clean APIs**, working with **data-driven systems**, and turni
 ---
 
 ### 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JanaSoliman21&layout=compact)
-
+![Jana's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true)
