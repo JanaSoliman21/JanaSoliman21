@@ -23,6 +23,18 @@ I enjoy building **clean APIs**, working with **data-driven systems**, and turni
 
 ---
 
+### 🌟 Featured Projects
+- **Graduation Project – Dental Radiograph Analysis**  
+  ML & image processing system for extracting age and gender from panoramic dental X-rays.
+
+- **Spring Boot REST API**  
+  Backend system with authentication, database integration, and clean architecture.
+
+- **.NET Backend Project**  
+  RESTful services built with .NET and SQL.
+
+---
+
 ### 📌 Current Focus
 - Building scalable backend systems  
 - ML models for medical image analysis  
@@ -36,5 +48,5 @@ I enjoy building **clean APIs**, working with **data-driven systems**, and turni
 
 ---
 
-### 📊 GitHub Stats
-![Jana's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true)
+### 📊 GitHub Languages
+![Top languages](https://img.shields.io/github/languages/top/JanaSoliman21/AIDentify)
