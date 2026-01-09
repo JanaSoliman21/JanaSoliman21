@@ -32,4 +32,4 @@ I enjoy building **clean APIs**, working with **data-driven systems**, and turni
 
 ### 📫 Connect With Me
 - 📧 Email: janasoliman003@gmail.com  
-- 💼 LinkedIn: [your-link-here](https://www.linkedin.com/in/jana-soliman-88b796227/)
+- 💼 LinkedIn: [my-link-here](https://www.linkedin.com/in/jana-soliman-88b796227/)
